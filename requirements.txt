@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+qrcode
+pillow
+apscheduler
+Pillow
+python-barcode
+telegram
+openpyxl
+requests
